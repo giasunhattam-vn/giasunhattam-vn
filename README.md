@@ -2,9 +2,7 @@
 - 👀 I’m interested in education, i am a tutoe center
 - 🌱 I’m currently learning leading skill
 - 💞️ I’m looking to collaborate on education
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- You can find me at https://giasunhattam.vn
 
 <!---
 giasunhattam-vn/giasunhattam-vn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
